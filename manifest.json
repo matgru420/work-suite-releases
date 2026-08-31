@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "id": "work-tracker",
+      "name": "Work Tracker",
+      "description": "Monitoruj godziny pracy, zarobki, wypłaty i statystyki.",
+      "category": "Praca",
+      "version": "1.0.0",
+      "executable": "work-tracker.exe",
+      "packageUrl": ""
+    }
+  ]
+}
