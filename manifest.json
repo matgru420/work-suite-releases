@@ -5,10 +5,10 @@
       "name": "Work Tracker",
       "description": "Monitoruj godziny pracy, zarobki, wypłaty i statystyki.",
       "category": "Praca",
-      "version": "1.2.0",
+      "version": "1.4.0",
       "executable": "work-tracker.exe",
-      "packageUrl": "https://github.com/matgru420/work-suite-releases/releases/download/v1.2.0/work-tracker-1.2.0.zip",
-      "sha256": "e94ed02e091dbb1d0774dafceeadabf0284fcf28ce0b3fd2d8f675d79f2e3285"
+      "packageUrl": "https://github.com/matgru420/work-suite-releases/releases/download/v1.4.0/work-tracker-1.4.0.zip",
+      "sha256": "0d894d5dd605cfff50119766aabbeff5dc1490d1a6e67040f160e20ac0c3ccb3"
     }
   ]
 }
