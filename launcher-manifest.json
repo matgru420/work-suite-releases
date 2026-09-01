@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "installerUrl": "https://github.com/matgru420/work-suite-releases/releases/download/launcher-v1.0.6/Work.Suite_1.0.6_x64-setup.exe",
-  "sha256": "41bee99bd18a0bdb6c097f6fda00c0cbe9febfbdbf89bd65b2cd82091d97c940",
-  "notes": "Aktualizacja Work Suite Launchera do wersji 1.0.6."
+  "version": "1.0.7",
+  "installerUrl": "https://github.com/matgru420/work-suite-releases/releases/download/launcher-v1.0.7/Work.Suite_1.0.7_x64-setup.exe",
+  "sha256": "11e9a03c2eb231ca25d2e4a94beab484a429962ac7b751dd5606b604e4126a49",
+  "notes": "Aktualizacja Work Suite Launchera do wersji 1.0.7."
 }
