@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "installerUrl": "https://github.com/matgru420/work-suite-releases/releases/download/company-admin-v1.0.3/Work.Suite.Company.Admin_1.0.3_x64-setup.exe",
-  "sha256": "c3cb98833c4f4c7b0642cd17d0c3c1543db293ab87b4f67976bdea02f398c1aa",
-  "notes": "Test publikacji Company Admina z Work Suite Admin."
+  "version": "1.0.4",
+  "installerUrl": "https://github.com/matgru420/work-suite-releases/releases/download/company-admin-v1.0.4/Work.Suite.Company.Admin_1.0.4_x64-setup.exe",
+  "sha256": "62524cab06904b86bb314d761a37df8f8dde42d98c15ee7be1bd421d2f518914",
+  "notes": "Poprawka skrótu na pulpicie po aktualizacji."
 }
