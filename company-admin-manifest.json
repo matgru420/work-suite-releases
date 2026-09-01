@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "installerUrl": "https://github.com/matgru420/work-suite-releases/releases/download/company-admin-v1.0.0/Work.Suite.Company.Admin_1.0.0_x64-setup.exe",
-  "sha256": "sha256:1dd5262ed0d91eeee380a54d599c16dffef93597ef9be2aaad06d96a22c65df6",
+  "sha256": "1dd5262ed0d91eeee380a54d599c16dffef93597ef9be2aaad06d96a22c65df6",
   "notes": "Pierwsze wydanie Work Suite Company Admin."
 }
