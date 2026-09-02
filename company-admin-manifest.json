@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "installerUrl": "https://github.com/matgru420/work-suite-releases/releases/download/company-admin-v1.0.4/Work.Suite.Company.Admin_1.0.4_x64-setup.exe",
-  "sha256": "62524cab06904b86bb314d761a37df8f8dde42d98c15ee7be1bd421d2f518914",
-  "notes": "Poprawka skrótu na pulpicie po aktualizacji."
+  "version": "1.0.5",
+  "installerUrl": "https://github.com/matgru420/work-suite-releases/releases/download/company-admin-v1.0.5/Work.Suite.Company.Admin_1.0.5_x64-setup.exe",
+  "sha256": "9d7943903aca917a86ac1cfc49293e5a8dda28237ad116a310d58697565587fc",
+  "notes": "Wymuszona zmiana hasła przy pierwszym logowaniu + zmiana hasła w ustawieniach."
 }
