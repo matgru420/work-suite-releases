@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "installerUrl": "https://github.com/matgru420/work-suite-releases/releases/download/launcher-v1.0.9/Work.Suite_1.0.9_x64-setup.exe",
-  "sha256": "69d022e1363f81101e3b39e0e65f1d561122fdb997578837afdad60c8c6052e9",
-  "notes": "Blokowanie Launchera dla zawieszonej firmy i zawieszonego pracownika."
+  "version": "1.0.10",
+  "installerUrl": "https://github.com/matgru420/work-suite-releases/releases/download/launcher-v1.0.10/Work.Suite_1.0.10_x64-setup.exe",
+  "sha256": "83230c1e7f2d014ad33e65cbfcc3b3db31f7c1e102e0736e34afd878d39628cb",
+  "notes": "Wymuszona zmiana hasła przy pierwszym logowaniu + zmiana hasła w ustawieniach."
 }
